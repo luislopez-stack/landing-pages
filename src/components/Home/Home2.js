@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/homeImg.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -16,21 +16,21 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              CONOCE SOBRE<span className="purple"> DENTAL </span> 
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            Especializados en tratamientos dentales correctivos y estéticos, preocupados por el bienestar y 
+            la salud de la sociedad mexicana, ofrecemos alternativas con tecnología de punta para garantizar la calidad de nuestro servicio.
               <br />
-              <br />I am fluent in classics like
+              <br />Todos nuestros tratamientos y servicios se brindan en  
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> cómodas instalaciones </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Tratamientos con los más altos &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">estándares de calidad. </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
