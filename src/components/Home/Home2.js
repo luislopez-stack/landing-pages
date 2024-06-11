@@ -28,27 +28,26 @@ function Home2() {
               </i>
               <br />
               <br />
-              Tratamientos con los más altos &nbsp;
+              Tratamientos con los más altos&nbsp;
               <i>
                 <b className="purple">estándares de calidad. </b> and
-                also in areas related to{" "}
+                y{" "}
                 <b className="purple">
-                  Blockchain.
+                  Atencion.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Pasion por mejorar la salud bucal de nuestros  <b className="purple">Pacientes</b> en
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  blanqueamientos, endodoncia
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; etc.
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"></b>
               </i>
             </p>
           </Col>
@@ -60,9 +59,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>NAVEGA</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Tambien <span className="purple">encuentrame </span>como
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
