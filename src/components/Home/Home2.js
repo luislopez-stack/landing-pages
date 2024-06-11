@@ -30,15 +30,15 @@ function Home2() {
               <br />
               Tratamientos con los más altos&nbsp;
               <i>
-                <b className="purple">estándares de calidad. </b> and
+                <b className="purple">estándares de calidad. </b>
                 y{" "}
                 <b className="purple">
-                  Atencion.
+                  atencion.
                 </b>
               </i>
               <br />
               <br />
-              Pasion por mejorar la salud bucal de nuestros  <b className="purple">Pacientes</b> en
+              Pasion por mejorar la salud bucal de nuestros  <b className="purple">pacientes</b> en
               <i>
                 <b className="purple">
                   {" "}
